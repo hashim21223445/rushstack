@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "webpack-merge": "~5.8.0",
-    "memfs": "3.4.3"
+    "memfs": "4.17.2"
   },
   "peerDependencies": {
     "@types/webpack": "^4.39.8",
