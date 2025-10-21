@@ -56,6 +56,6 @@
     "@types/heft-jest": "1.0.1",
     "@types/node": "22.10.2",
     "@types/watchpack": "2.4.0",
-    "typescript": "~5.4.2"
+    "typescript": "~5.7.2"
   }
 }
