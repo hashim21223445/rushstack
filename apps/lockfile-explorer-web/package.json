@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@rushstack/heft": "workspace:*",
-    "@types/react-dom": "17.0.25",
+    "@types/react-dom": "19.1.9",
     "@types/react": "17.0.74",
     "local-web-rig": "workspace:*"
   }
