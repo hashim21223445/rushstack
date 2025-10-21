@@ -4,6 +4,6 @@
   "description": "Test package c",
   "dependencies": {
     "b": "workspace:>=1.0.0 <2.0.0",
-    "handlebars": "~4.0.11"
+    "handlebars": "~4.7.8"
   }
 }
