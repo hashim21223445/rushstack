@@ -33,7 +33,7 @@
     "jest-environment-jsdom": "~29.5.0",
     "mini-css-extract-plugin": "~2.5.3",
     "postcss-loader": "~6.2.1",
-    "postcss": "~8.4.6",
+    "postcss": "~8.5.6",
     "sass-loader": "~12.4.0",
     "sass": "~1.49.7",
     "source-map-loader": "~3.0.1",
@@ -43,7 +43,7 @@
     "url-loader": "~4.1.1",
     "webpack-bundle-analyzer": "~4.5.0",
     "webpack-merge": "~5.8.0",
-    "webpack": "~5.82.1"
+    "webpack": "~5.102.1"
   },
   "devDependencies": {
     "@rushstack/heft": "workspace:*"
