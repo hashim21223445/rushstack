@@ -34,7 +34,7 @@
     "local-node-rig": "workspace:*",
     "@rushstack/module-minifier": "workspace:*",
     "memfs": "3.4.3",
-    "webpack": "~5.82.1"
+    "webpack": "~5.102.1"
   },
   "sideEffects": false,
   "peerDependenciesMeta": {
