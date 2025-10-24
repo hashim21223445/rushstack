@@ -19,6 +19,6 @@
   "devDependencies": {
     "local-node-rig": "workspace:*",
     "@rushstack/heft": "workspace:*",
-    "@types/diff": "5.0.1"
+    "@types/diff": "7.0.2"
   }
 }
