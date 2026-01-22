@@ -41,6 +41,6 @@
     "@rushstack/terminal": "workspace:*",
     "@types/watchpack": "2.4.0",
     "@types/webpack": "4.41.32",
-    "webpack": "~4.47.0"
+    "webpack": "~5.0.0"
   }
 }
