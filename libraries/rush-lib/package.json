@@ -30,7 +30,7 @@
   "license": "MIT",
   "dependencies": {
     "@pnpm/dependency-path": "~2.1.2",
-    "@pnpm/link-bins": "~5.3.7",
+    "@pnpm/link-bins": "~1000.3.5",
     "@rushstack/heft-config-file": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/package-deps-hash": "workspace:*",
@@ -61,7 +61,7 @@
     "ssri": "~8.0.0",
     "strict-uri-encode": "~2.0.0",
     "tapable": "2.2.1",
-    "tar": "~6.2.1",
+    "tar": "~7.5.7",
     "true-case-path": "~2.2.1",
     "uuid": "~8.3.2",
     "pnpm-sync-lib": "0.2.9"
