@@ -17,7 +17,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@pnpm/link-bins": "~5.3.7",
+    "@pnpm/link-bins": "~1000.3.5",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/terminal": "workspace:*",
     "ignore": "~5.1.6",
@@ -34,7 +34,7 @@
     "@types/glob": "7.1.1",
     "@types/minimatch": "3.0.5",
     "@types/npm-packlist": "~1.1.1",
-    "eslint": "~8.57.0",
+    "eslint": "~9.26.0",
     "webpack": "~5.102.1",
     "@types/semver": "7.5.0"
   }
