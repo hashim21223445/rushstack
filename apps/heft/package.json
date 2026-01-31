@@ -52,7 +52,7 @@
     "@microsoft/api-extractor": "workspace:*",
     "local-eslint-config": "workspace:*",
     "@rushstack/heft": "0.68.10",
-    "@rushstack/heft-node-rig": "2.6.15",
+    "@rushstack/heft-node-rig": "2.11.0",
     "@types/heft-jest": "1.0.1",
     "@types/node": "22.10.2",
     "@types/watchpack": "2.4.0",
